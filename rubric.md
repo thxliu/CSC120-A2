@@ -7,8 +7,6 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 - **NO**: indicates that the item is not attempted
 - **PART**: indicates that the item is attempted but not fully complete
 
-## Test Cases (10 pts, Autograded)
-
 ### Level 1 (3 pts)
 
 ____ 1 pt: All expected attributes for `Computer` class are present
@@ -19,11 +17,11 @@ ____ 1 pt: Constructor for `Computer` class is present and sets attributes corre
 
 ### Level 2 (3 pts)
 
-____ 1 pt: All expected attributes for `ResaleStore` class are present
+____ 1 pt: All expected attributes for `ResaleShop` class are present
 
-____ 1 pt: All expected methods for `ResaleStore` class are present
+____ 1 pt: All expected methods for `ResaleShop` class are present
 
-____ 1 pt: Constructor for `ResaleStore` class is present and sets attributes correctly
+____ 1 pt: Constructor for `ResaleShop` class is present and sets attributes correctly
 
 ### Level 3 (4 pts)
 
